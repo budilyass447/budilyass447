@@ -1,7 +1,14 @@
-# ABOUT ME
+## ABOUT ME
+I am currently working on future frontend web projects that would improve and help people's lives, and looking for frontend web internships and project collaborations to make and contribute to the greatest real-world projects. 
+Whilst I am studying computer science at Hassan II University's Faculty of Sciences Ben M'sik, I am currently learning about generative artificial intelligence, and discovering new technologies to improve my workflow and potentially achieve greater impact and greater results.
+My journey started with an addicting interest in multimedia and how software is being used to create multimedia content, web development is my first step towards my addicting interest, allowing me to apply of what I see on code lines and web pages.
+Feel free to reach out to me by email: boudade.ilyasse@gmail.com for any growth opportunities, internship or collaboration opportunities.
+### SKILLS AND QUALITIES
+- Creativity
+- Design Thinking
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sagittis lorem. Quisque sit amet diam id orci elementum efficitur. Sed a dictum metus, lacinia aliquam orci. Ut porttitor, turpis eu posuere congue, ligula tellus euismod dui, nec pretium massa sapien id sem. Aliquam quis augue vel augue condimentum laoreet id vitae magna. Sed sit amet nisl fringilla, consequat odio in, vestibulum neque. Nam nec placerat lectus. Fusce eleifend elit vitae neque auctor euismod. Vivamus pharetra elementum cursus. Maecenas ut ligula sed mauris sollicitudin cursus ut a eros. Phasellus volutpat venenatis orci, malesuada gravida quam. Sed efficitur et turpis at faucibus. Nulla vestibulum diam nec lacus pharetra placerat. Vestibulum faucibus molestie metus sed pulvinar. Phasellus euismod feugiat odio, vel cursus arcu imperdiet ut. Morbi laoreet mollis tortor et aliquet. -->
 
-<!--
-**budilyass447/budilyass447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **budilyass447/budilyass447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
