@@ -1,6 +1,6 @@
 ## ABOUT ME
 I am currently working on future frontend web projects that would improve and help people's lives, and looking for frontend web internships and project collaborations to make and contribute to the greatest real-world projects. <br /> <br />
-Whilst I am studying computer science at Hassan II University's Faculty of Sciences Ben M'sik, I am currently learning about generative artificial intelligence, and discovering new technologies to improve my workflow and potentially achieve greater impact and greater results. <br /> <br />
+Whilst I am currently studying computer science at Hassan II University's Faculty of Sciences Ben M'sik, I am learning new things about generative artificial intelligence, and reading about new technologies and techniques to improve my workflow and potentially achieve greater impact and greater results. <br /> <br />
 My journey started with an addicting interest in multimedia and how software is being used to create multimedia content, web development is my first step towards my addicting interest, allowing me to apply of what I see on code lines and web pages.
 Feel free to reach out to me by email: boudade.ilyasse@gmail.com for any growth opportunities, internship or collaboration opportunities.
 ### SKILLS AND QUALITIES
