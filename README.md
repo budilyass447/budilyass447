@@ -1,11 +1,27 @@
 ## ABOUT ME
-I am currently working on future frontend web projects that would improve and help people's lives, and looking for frontend web internships and project collaborations to make and contribute to the greatest real-world projects. <br /> <br />
-Whilst I am currently studying computer science at Hassan II University's Faculty of Sciences Ben M'sik, I am learning new things about generative artificial intelligence, and reading about new technologies and techniques to improve my workflow and potentially achieve greater impact and greater results. <br /> <br />
-My journey started with an addicting interest in multimedia and how software is being used to create multimedia content, web development is my first step towards my addicting interest, allowing me to apply of what I see on code lines and web pages.
-Feel free to reach out to me by email: boudade.ilyasse@gmail.com for any growth opportunities, internship or collaboration opportunities.
+🔭 I am currently working on future frontend web projects that would elaborate people's lives, and looking for frontend web internships and project collaborations 🤝🏻 to contribute to real-world projects 🧱. <br /> <br />
+👨🏻‍🎓 Whilst I am studying computer science at Hassan II University's Faculty of Sciences Ben M'sik, I am learning new things about generative artificial intelligence 🤖, and reading about new technologies and techniques 🕵🏻‍♂️ to update my skillset in web development, programming & video editing, and potentially achieve greater impact and greater results ✨. <br /> <br />
+👨🏻‍💻 My journey started with an addicting interest 🎲 in multimedia and how software is made and being used to create multimedia content 🎞, web development is my first step towards my addicting interest, allowing me to apply of what I see on code lines and web pages 🔮.
+<br /> <br /> ⚡ Feel free to reach out to me by email: boudade.ilyasse@gmail.com for any growth opportunities, internship or collaboration opportunities.
 ### SKILLS AND QUALITIES
-- Creativity
+- Problem-Solving
+- User Interface Design
+- Organization
 - Design Thinking
+- Detail-Oriented
+### TECHNOLOGIES
+<div align="center">
+	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+</div>
+
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sagittis lorem. Quisque sit amet diam id orci elementum efficitur. Sed a dictum metus, lacinia aliquam orci. Ut porttitor, turpis eu posuere congue, ligula tellus euismod dui, nec pretium massa sapien id sem. Aliquam quis augue vel augue condimentum laoreet id vitae magna. Sed sit amet nisl fringilla, consequat odio in, vestibulum neque. Nam nec placerat lectus. Fusce eleifend elit vitae neque auctor euismod. Vivamus pharetra elementum cursus. Maecenas ut ligula sed mauris sollicitudin cursus ut a eros. Phasellus volutpat venenatis orci, malesuada gravida quam. Sed efficitur et turpis at faucibus. Nulla vestibulum diam nec lacus pharetra placerat. Vestibulum faucibus molestie metus sed pulvinar. Phasellus euismod feugiat odio, vel cursus arcu imperdiet ut. Morbi laoreet mollis tortor et aliquet. -->
 
 <!-- **budilyass447/budilyass447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
