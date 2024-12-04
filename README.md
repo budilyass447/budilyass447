@@ -1,4 +1,4 @@
-## ABOUT ME
+# ABOUT ME
 🔭 I am currently working on future frontend web projects that would elaborate people's lives, and looking for frontend web internships and project collaborations 🤝🏻 to contribute to real-world projects 🧱. <br /> <br />
 👨🏻‍🎓 Whilst I am studying computer science at Hassan II University's Faculty of Sciences Ben M'sik, I am learning new things about generative artificial intelligence 🤖, and reading about new technologies and techniques 🕵🏻‍♂️ to update my skillset in web development & programming, and potentially achieve greater impact and greater results ✨. <br /> <br />
 👨🏻‍💻 My journey started with an addicting interest 🎲 in multimedia and how software is made and being used to create multimedia content 🎞, web development is my first step towards my addicting interest, allowing me to apply of what I see on code lines and web pages 🔮.
@@ -9,7 +9,7 @@
 - Organization
 - Design Thinking
 - Detail-Oriented
-### TECHNOLOGIES
+## TECHNOLOGIES
 <table>
 	<tr>
 		<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
