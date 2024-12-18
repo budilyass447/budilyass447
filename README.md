@@ -1,5 +1,4 @@
 # ABOUT ME
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=budilyass447&label=Profile%20views&color=0e75b6&style=flat" alt="xaminezh" /> </p>
 🔭 I am currently working on future frontend web projects that would elaborate people's lives, and looking for frontend web internships and project collaborations 🤝🏻 to contribute to real-world projects 🧱. <br /> <br />
 👨🏻‍🎓 Whilst I am studying computer science at Hassan II University's Faculty of Sciences Ben M'sik, I am learning new things about generative artificial intelligence 🤖, and reading about new technologies and techniques 🕵🏻‍♂️ to update my skillset in web development & programming, and potentially achieve greater impact and greater results ✨. <br /> <br />
 👨🏻‍💻 My journey started with an addicting interest 🎲 in multimedia and how software is made and being used to create multimedia content 🎞, web development is my first step towards my addicting interest, allowing me to apply of what I see on code lines and web pages 🔮.
