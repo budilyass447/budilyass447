@@ -1,8 +1,9 @@
 # ABOUT ME
-🔭 I am currently working on future frontend web projects that would elaborate people's lives, and looking for frontend web internships and project collaborations 🤝🏻 to contribute to real-world projects 🧱. <br /> <br />
-👨🏻‍🎓 Whilst I am studying computer science at Hassan II University's Faculty of Sciences Ben M'sik, I am learning new things about generative artificial intelligence 🤖, and reading about new technologies and techniques 🕵🏻‍♂️ to update my skillset in web development & programming, and potentially achieve greater impact and greater results ✨. <br /> <br />
-👨🏻‍💻 My journey started with an addicting interest 🎲 in multimedia and how software is made and being used to create multimedia content 🎞, web development is my first step towards my addicting interest, allowing me to apply of what I see on code lines and web pages 🔮.
-<br /> <br /> ⚡ Feel free to reach out to me by email: boudade.ilyasse@gmail.com for any growth opportunities, internship or collaboration opportunities.
+🔭 I am currently working on future frontend web projects that would elaborate people's lives, and looking for frontend web internships and project collaborations to contribute to real-world projects.
+<br /><br />
+👨🏻‍🎓 Whilst I am studying computer science, I am learning new things about generative artificial intelligence 🤖, new technologies and techniques to update my skillset in web development & programming, and potentially achieve greater impact and greater results.
+<br /><br />
+👨🏻‍💻 My journey started with an addicting interest in multimedia and how software is made and being used to create multimedia content, web development is my first step towards my addicting interest, allowing me to apply of what I see on code lines and web pages 🔮.
 ### SKILLS AND QUALITIES
 - Problem-Solving
 - User Interface Design
@@ -13,7 +14,6 @@
 <table>
 	<tr>
 		<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
-		<td><code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" title="C"/></code></td>
 		<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
 		<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
 		<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
